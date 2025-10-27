@@ -1,31 +1,66 @@
 # Family Budget Planner
 
-**Семейный финансовый менеджер** — мобильное приложение для ведения семейного бюджета.
+**Семейный финансовый менеджер** — мобильное приложение для учёта расходов и доходов семьи.
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+
+---
 
 ## Особенности
-- Синхронизация данных между членами семьи
-- Учёт расходов и доходов
-- Категории, счета, статистика
-- Режим редактирования (удаление/перемещение)
-- Поддержка детей (ограниченный доступ)
-- Геотегирование транзакций
-- AI-помощник и чат (в разработке)
+- Синхронизация данных в реальном времени (Firebase)
+- Роли: взрослый / ребёнок
+- Общие и личные счета
+- Категории с перетаскиванием
+- Статистика и графики
+- Геотеги транзакций (Google Maps)
+- Режим редактирования
+- AI-помощник (в разработке)
+
+---
 
 ## Скриншоты
-![Главная](screenshots/home.png)
-![Счета](screenshots/accounts.png)
-![Статистика](screenshots/stats.png)
 
-## Технологии
-- **Flutter** (Dart)
-- **Firebase** (Auth, Firestore)
-- **Provider** (управление состоянием)
-- **Google Maps**
-- **Shared Preferences**
+<div align="center">
+  <img src="screenshots/home.gif" width="30%"/>
+  <img src="screenshots/accounts.png" width="30%"/>
+  <img src="screenshots/stats.png" width="30%"/>
+</div>
 
-## Установка
+---
+
+## Как запустить
+
 ```bash
 git clone https://github.com/YuriyAntropov/family-budget-planner.git
 cd family-budget-planner
 flutter pub get
-flutter run
+
+Добавь google-services.json в android/app/ (из Firebase Console)
+Включи Authentication и Firestore
+Запусти: flutter run
+
+
+API-ключи удалены из репозитория для безопасности
+
+
+Технологии
+
+Flutter — UI
+Firebase — Auth + Firestore
+Provider — состояние
+Google Maps — геолокация
+ReorderableGridView — перетаскивание
+
+
+Безопасность
+
+API-ключи удалены из истории Git
+Используется .gitignore
+Проект безопасен для портфолио
+
+
+Автор
+Yuriy Antropov
+GitHub
+Дипломная работа, 2025
