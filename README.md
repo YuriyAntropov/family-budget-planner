@@ -22,9 +22,32 @@
 ## Скриншоты
 
 <div align="center">
-  <img src="screenshots/home.png" width="30%"/>
-  <img src="screenshots/accounts.png" width="30%"/>
-  <img src="screenshots/stats.png" width="30%"/>
+  <h3>Прокрути вправо ←→</h3>
+</div>
+
+<div align="center">
+  <div style="overflow-x: auto; white-space: nowrap; display: flex; gap: 10px; padding: 10px; max-width: 100%; scrollbar-width: thin;">
+    <img src="screenshots/home.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/accounts.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/stats.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/19Snipaste_2025-05-23_18-01-37.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/201Snipaste_2025-05-23_18-10-45.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/20Snipaste_2025-05-23_18-10-45.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/22Snipaste_2025-05-23_21-44-27.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/25Snipaste_2025-05-23_21-59-41.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/23Snipaste_2025-05-23_21-48-56.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/16Snipaste_2025-05-23_01-21-54.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/27Snipaste_2025-05-23_22-09-02.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/studio64_a7LDXfFRSq_3.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/home.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/studio64_a7LDXfFRSq_2.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/studio64_a7LDXfFRSq_1.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/studio64_a7LDXfFRSq_4.gif" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/20250604_140912.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/182Snipaste_2025-05-23_01-21-54.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/181Snipaste_2025-05-23_01-21-54.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="screenshots/32Snipaste_2025-05-27_21-54-48.png" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </div>
 </div>
 
 ---
