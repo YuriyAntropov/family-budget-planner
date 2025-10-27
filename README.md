@@ -22,7 +22,7 @@
 ## Скриншоты
 
 <div align="center">
-  <img src="screenshots/home.gif" width="30%"/>
+  <img src="screenshots/home.png" width="30%"/>
   <img src="screenshots/accounts.png" width="30%"/>
   <img src="screenshots/stats.png" width="30%"/>
 </div>
