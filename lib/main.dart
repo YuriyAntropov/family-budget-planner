@@ -26,10 +26,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'services/locale_provider.dart';
 import 'l10n/app_localizations.dart';
 import 'services/theme_provider.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+  await dotenv.load(fileName: ".env");
 
   FirebaseFirestore.instance.settings = const Settings(
     persistenceEnabled: true,
