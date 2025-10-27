@@ -1,0 +1,92 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+*.hprof
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/xcshareddata/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+
+# Android
+android/.gradle/
+android/local.properties
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/build/
+
+# Firebase / Google Services
+google-services.json
+GoogleService-Info.plist
+
+# Environment variables
+.env
+*.env
+
+# Keys & Certificates
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.cert
+
+# Logs
+*.log
+
+# Build artifacts
+*.apk
+*.aab
+*.ap_
+*.ipa
+
+# Obfuscation
+app.*.symbols
+app.*.map.json
+
+# MacOS
+.DS_Store
